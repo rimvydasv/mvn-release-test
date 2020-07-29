@@ -13,6 +13,10 @@
         <developerConnection>scm:git:https://github.com/rimvydasv/mvn-release-test.git</developerConnection>
     </scm>
 
+    <modules>
+        <module>../mvn-release-test-module</module>
+    </modules>
+
     <build>
         <pluginManagement>
             <plugins>

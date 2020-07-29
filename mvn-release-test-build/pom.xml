@@ -10,7 +10,7 @@
     <packaging>pom</packaging>
 
     <scm>
-        <developerConnection>https://github.com/rimvydasv/mvn-release-test.git</developerConnection>
+        <developerConnection>scm:git:https://github.com/rimvydasv/mvn-release-test.git</developerConnection>
     </scm>
 
     <build>

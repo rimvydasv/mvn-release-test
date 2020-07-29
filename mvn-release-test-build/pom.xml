@@ -4,12 +4,12 @@
 
     <groupId>org.example</groupId>
     <artifactId>mvn-release-test-build</artifactId>
-    <version>1.0.0</version>
+    <version>1.0.1-SNAPSHOT</version>
     <packaging>pom</packaging>
 
     <scm>
         <developerConnection>scm:git:https://github.com/rimvydasv/mvn-release-test.git</developerConnection>
-      <tag>v1.0.0</tag>
+      <tag>HEAD</tag>
   </scm>
 
     <build>
